@@ -1,0 +1,64 @@
+1. YALIN ÜRETİM TEMELLERİ
+
+Lean Manufacturing
+
+Amaç: israfı azaltmak + değeri artırmak
+
+Öğrendiklerin:
+
+7 israf (muda)
+TIMWOOD
+Takt time, cycle time
+PDCA (PUKÖ)
+Değer vs israf mantığı
+
+2. YALIN ÜRETİM ARAÇLARI
+
+Süreci iyileştiren araçlar
+
+Önemliler:
+
+5S → düzen
+Kaizen → sürekli iyileştirme
+VSM → süreci görmek
+SMED → setup azaltma
+Kanban → stok kontrol
+TPM → bakım
+OEE → makine verimliliği
+
+3. KALİTE VE ANALİZ ARAÇLARI
+
+Problemi bul + çöz
+
+Önemliler:
+
+Pareto → en büyük problem
+Fishbone → kök neden
+Histogram → dağılım
+SPC → süreç kontrol
+5 Why → derine inme
+FMEA → risk analizi
+Six Sigma & DMAIC
+
+4. YAZILIMLAR
+
+Bu işleri hangi programla yapıyoruz
+
+Önemliler:
+
+Microsoft Excel → temel analiz
+Minitab → istatistik
+Power BI → dashboard
+Visio → süreç çizimi
+SQL → veri çekme
+⚫ 5. ENDÜSTRİ 4.0
+
+Üretimin dijital hali
+
+Öğrendiklerin:
+
+IoT → veri toplama
+ERP / MES → sistem yönetimi
+Big Data → analiz
+RFID → takip
+Digital Twin → simülasyon

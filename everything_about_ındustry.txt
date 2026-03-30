@@ -1,0 +1,65 @@
+1. LEAN MANUFACTURING FUNDAMENTALS
+
+Lean Manufacturing
+
+Purpose: reduce waste + increase value
+
+What you learned:
+
+7 wastes (muda)
+TIMWOOD
+Takt time, cycle time
+PDCA
+Value vs waste concept
+
+2. LEAN MANUFACTURING TOOLS
+
+Tools that improve processes
+
+Key tools:
+
+5S → workplace organization
+Kaizen → continuous improvement
+VSM → process visualization
+SMED → setup time reduction
+Kanban → inventory control
+TPM → maintenance
+OEE → machine efficiency
+
+3. QUALITY AND ANALYSIS TOOLS
+
+Identify problems + solve them
+
+Key tools:
+
+Pareto → identify the main problem
+Fishbone → root cause analysis
+Histogram → data distribution
+SPC → process control
+5 Why → deeper root cause
+FMEA → risk analysis
+Six Sigma & DMAIC
+
+4. SOFTWARE
+
+Tools used to perform these analyses
+
+Key tools:
+
+Microsoft Excel → basic analysis
+Minitab → statistical analysis
+Power BI → dashboard and visualization
+Visio → process mapping
+SQL → data extraction
+
+5. INDUSTRY 4.0
+
+Digital transformation of production
+
+What you learned:
+
+IoT → data collection
+ERP / MES → system management
+Big Data → data analysis
+RFID → tracking
+Digital Twin → simulation
